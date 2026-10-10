@@ -1,2 +1,2 @@
-# streaming-se
+# Streaming Sergipano
 Site de Streaming Sergipano
