@@ -1,2 +1,2 @@
-# Streaming Sergipano
-Site de Streaming Sergipano
+# Aberto Cultural
+Site de vídeos baseado em cultura sergipana
